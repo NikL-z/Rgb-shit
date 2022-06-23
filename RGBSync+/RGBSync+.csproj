@@ -199,7 +199,7 @@
       <Version>1.0.8</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>12.0.1</Version>
+      <Version>13.0.1</Version>
     </PackageReference>
     <PackageReference Include="RGB.NET.Brushes">
       <Version>0.1.23</Version>
